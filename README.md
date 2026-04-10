@@ -1,28 +1,48 @@
 # 🚀 Consulta Inteligente de Dados com IA (SQL + NLP)
 
-![Status](https://img.shields.io/badge/status-em%20produção-brightgreen) ![Python](https://img.shields.io/badge/python-3.11-blue) ![AI](https://img.shields.io/badge/AI-OpenAI-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![Python](https://img.shields.io/badge/python-3.11-blue) ![AI](https://img.shields.io/badge/AI-OpenAI-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
-Sistema em produção que permite realizar consultas em banco de dados utilizando **linguagem natural**, convertendo automaticamente perguntas em **queries SQL** através de Inteligência Artificial.
+Sistema em desenvolvimento que permite realizar consultas em banco de dados utilizando **linguagem natural**, convertendo automaticamente perguntas em **queries SQL** através de Inteligência Artificial.
 
 ---
 
 ## 🧠 Visão Geral
 
-Este projeto foi desenvolvido para **automatizar análises de dados** e reduzir a dependência de consultas manuais em SQL.
+Este projeto está sendo desenvolvido com o objetivo de **automatizar análises de dados** e reduzir a dependência de consultas manuais em SQL.
 
-Com ele, é possível:
+A ideia é permitir que qualquer usuário consiga:
 
 - Fazer perguntas como:  
   👉 "Qual a média de valor realizado?"  
   👉 "Total por mês?"  
 
-- E obter respostas diretamente do banco de dados, sem escrever SQL manualmente.
+- E obter respostas diretamente do banco de dados, sem precisar escrever SQL manualmente.
+
+---
+
+## 🚧 Status do Projeto
+
+🟡 **EM DESENVOLVIMENTO**
+
+Atualmente o projeto está em fase de construção e testes, com algumas funcionalidades já implementadas:
+
+✔ Conexão com banco de dados (SQL Server)  
+✔ Leitura de dados com Pandas  
+✔ Estrutura inicial de interpretação com IA  
+✔ Testes com PandasAI  
+
+🚧 Em andamento:
+
+- Integração completa com OpenAI  
+- Geração confiável de SQL via linguagem natural  
+- Tratamento de erros e validação de queries  
+- Estruturação do código  
 
 ---
 
 ## 🎬 Demonstração
 
-*(Adicione aqui um GIF ou print do sistema em execução)*
+*(Em breve — será adicionado um GIF ou vídeo com o funcionamento do sistema)*
 
 ---
 
